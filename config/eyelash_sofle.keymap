@@ -97,6 +97,7 @@
 &trans     &trans        &trans          &trans        &trans        &trans          &mkp LCLK        &trans  &trans  &trans      &trans     &trans
             >;
 
+            display-name = "layer2"; 
             sensor-bindings = <&scroll_encoder>;
         };
 
