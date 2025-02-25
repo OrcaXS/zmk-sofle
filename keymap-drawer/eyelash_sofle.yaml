@@ -69,7 +69,7 @@ layers:
   - F1
   - F2
   - F3
-  - Gui+Ctl+Sft+4
+  - Gui+Ctl+$
   - F5
   - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
   - F6
