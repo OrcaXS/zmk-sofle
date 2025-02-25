@@ -54,7 +54,7 @@ layers:
   - {t: /, s: '?'}
   - $$mdi:volume-off$$
   - LGUI
-  - $$mdi:keyboard-space$$
+  - LGUI
   - layer1
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
