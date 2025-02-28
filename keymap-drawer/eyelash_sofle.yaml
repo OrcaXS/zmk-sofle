@@ -40,11 +40,11 @@ layers:
   - {t: ;, s: ':'}
   - {t: '''', s: '"'}
   - $$mdi:apple-keyboard-shift$$
-  - $$mdi:apple-keyboard-control$$
   - Z
   - X
   - C
   - V
+  - B
   - $$mdi:arrow-right-bold$$
   - B
   - N
